@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Equipment1
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Hair
+    m_Hash: 1019596327
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: 645408424111632514, guid: 0bbad2457309a7d46a38c65e466bfe72,
+        type: 3}
+    - m_Name: armour
+      m_Hash: -1745031021
+      m_Sprite: {fileID: -8415568384568994727, guid: 2ce3dabc376c04445ad34badb15965a5,
+        type: 3}
+  - m_Name: Body
+    m_Hash: 2073732236
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: -890225466628611792, guid: 0bbad2457309a7d46a38c65e466bfe72,
+        type: 3}
+    - m_Name: armour
+      m_Hash: -1745031021
+      m_Sprite: {fileID: -2927556994945164268, guid: 2ce3dabc376c04445ad34badb15965a5,
+        type: 3}
+  - m_Name: Weapon
+    m_Hash: 1855955664
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: 305432582615660034, guid: 0bbad2457309a7d46a38c65e466bfe72,
+        type: 3}
+    - m_Name: armour
+      m_Hash: -1745031021
+      m_Sprite: {fileID: 4512299848371220782, guid: 2ce3dabc376c04445ad34badb15965a5,
+        type: 3}
+  - m_Name: Arm_L
+    m_Hash: 1623325344
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: 669480492571258976, guid: 0bbad2457309a7d46a38c65e466bfe72,
+        type: 3}
+    - m_Name: armour
+      m_Hash: -1745031021
+      m_Sprite: {fileID: 1725428176728338933, guid: 2ce3dabc376c04445ad34badb15965a5,
+        type: 3}
+  - m_Name: Arm_R
+    m_Hash: -1697724477
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: -1428278422946200051, guid: 0bbad2457309a7d46a38c65e466bfe72,
+        type: 3}
+    - m_Name: armour
+      m_Hash: -1745031021
+      m_Sprite: {fileID: -8899151222546932816, guid: 2ce3dabc376c04445ad34badb15965a5,
+        type: 3}
+  - m_Name: Hand_L
+    m_Hash: 552982707
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: -8526248162144953148, guid: 0bbad2457309a7d46a38c65e466bfe72,
+        type: 3}
+    - m_Name: armour
+      m_Hash: -1745031021
+      m_Sprite: {fileID: 1059579674941937692, guid: 2ce3dabc376c04445ad34badb15965a5,
+        type: 3}
+  - m_Name: Hand_R
+    m_Hash: -621091376
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: -8769973854167053988, guid: 0bbad2457309a7d46a38c65e466bfe72,
+        type: 3}
+    - m_Name: armour
+      m_Hash: -1745031021
+      m_Sprite: {fileID: 1726569643660605108, guid: 2ce3dabc376c04445ad34badb15965a5,
+        type: 3}
+  - m_Name: Leg_L
+    m_Hash: 1476973793
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: -7654439995999531227, guid: 0bbad2457309a7d46a38c65e466bfe72,
+        type: 3}
+    - m_Name: armour
+      m_Hash: -1745031021
+      m_Sprite: {fileID: 4334578800516556829, guid: 2ce3dabc376c04445ad34badb15965a5,
+        type: 3}
+  - m_Name: Leg_R
+    m_Hash: -1576539774
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: 8185030491597496887, guid: 0bbad2457309a7d46a38c65e466bfe72,
+        type: 3}
+    - m_Name: armour
+      m_Hash: -1745031021
+      m_Sprite: {fileID: -3992793762389588363, guid: 2ce3dabc376c04445ad34badb15965a5,
+        type: 3}
+  - m_Name: Foot_L
+    m_Hash: 22397879
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: 788816882993115221, guid: 0bbad2457309a7d46a38c65e466bfe72,
+        type: 3}
+    - m_Name: armour
+      m_Hash: -1745031021
+      m_Sprite: {fileID: 3140279382827971757, guid: 2ce3dabc376c04445ad34badb15965a5,
+        type: 3}
+  - m_Name: Foot_R
+    m_Hash: -77922604
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: 9061663278453223909, guid: 0bbad2457309a7d46a38c65e466bfe72,
+        type: 3}
+    - m_Name: armour
+      m_Hash: -1745031021
+      m_Sprite: {fileID: 2830308951895100871, guid: 2ce3dabc376c04445ad34badb15965a5,
+        type: 3}
