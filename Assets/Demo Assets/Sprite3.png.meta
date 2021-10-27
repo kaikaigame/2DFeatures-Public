@@ -117,7 +117,7 @@ TextureImporter:
       213: -6146913496289591281
     second: Sprite3_37
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -137,6 +137,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -145,9 +147,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -168,9 +170,13 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -1019,6 +1025,45 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Sprite3_32: -4402142367748478666
+      Sprite3_15: 1269942716399975475
+      Sprite3_22: 5461847054796404624
+      Sprite3_1: 7956698351101267637
+      Sprite3_28: 8109532565923145286
+      Sprite3_35: 9222549698442503467
+      Sprite3_5: -3036990384578977855
+      Sprite3_4: -6914094021204184763
+      Sprite3_18: 4227335191014867796
+      Sprite3_37: -6146913496289591281
+      Sprite3_14: 1637278468488955244
+      Sprite3_36: -6249733264290005059
+      Sprite3_30: -1241228432461110158
+      Sprite3_11: -4396060322502791106
+      Sprite3_0: 656812491465077262
+      Sprite3_29: -5076014709421846551
+      Sprite3_16: -6786286833301511180
+      Sprite3_12: 4533168368471725141
+      Sprite3_6: 3107292169657819365
+      Sprite3_10: -4761631774628829070
+      Sprite3_7: -1742152098947825418
+      Sprite3_27: 2542501494828397587
+      Sprite3_25: 318452406920970072
+      Sprite3_19: -6764612891301769071
+      Sprite3_21: -7866463956962616013
+      Sprite3_26: 6832814777013530738
+      Sprite3_34: -1569684632679415422
+      Sprite3_2: -9056938783847133084
+      Sprite3_8: -8579835385955007494
+      Sprite3_9: 8860230523509744650
+      Sprite3_24: 2930601423142701765
+      Sprite3_3: 3665744370467328539
+      Sprite3_33: -199349852001980691
+      Sprite3_31: 7266033812065905660
+      Sprite3_20: -5448060736565445435
+      Sprite3_13: -791913967148441991
+      Sprite3_17: -3385252299501478888
+      Sprite3_23: 8541067336580350268
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

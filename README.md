@@ -22,5 +22,5 @@ https://assetstore.unity.com/packages/2d/environments/free-asset-2d-handcrafted-
   
 https://assetstore.unity.com/packages/essentials/tutorial-projects/lost-crypt-2d-sample-project-158673  
   
-Unity m_EditorVersion:  2021.1.20f1  
+Unity m_EditorVersion:  2021.2.0f1  
   
